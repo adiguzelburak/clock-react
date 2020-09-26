@@ -1,0 +1,36 @@
+#ustKisim {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #343a40;
+  color: white;
+  height: 100px;
+  width: 100%;
+  font-size: 35px;
+  font-family: "Kumbh Sans", sans-serif;
+}
+#clockDesign{
+     display: inline-flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column; 
+     background-color: #282C34;
+     color: #61DAFB;
+     font-size: 32px;
+     height: 250px;
+     width: 250px;
+     border-radius: 50%;
+     font-family: "Kumbh Sans", sans-serif; 
+     border: 16px solid #32363E;
+     margin-top: 10px;
+
+}
+#dateDesign{
+    font-size: 16px;
+}
+#toggle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ 
